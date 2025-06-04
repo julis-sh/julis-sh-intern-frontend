@@ -5,6 +5,7 @@
     "scripts": {
         "dev": "vite",
         "dev-host": "vite --host",
+        "dev:test": "vite --mode test",
         "build": "vite build",
         "preview": "vite preview",
         "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
