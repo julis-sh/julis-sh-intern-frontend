@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+.env
+.env.development
+.env.production
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Frontend (Vite, React)
+dist/
+node_modules/
+.DS_Store
+coverage/
+
+# System
+Thumbs.db
+*.swp
+
+# Sonstiges
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.pem
+*.p8
+*.key
+*.crt
+*.cert
+*.p12
+*.mobileprovision
